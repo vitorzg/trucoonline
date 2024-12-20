@@ -1,4 +1,4 @@
-package dev.vitorzucon.trucoonline.models;
+package dev.vitorzucon.trucoonline.domain.entities;
 
 import java.time.LocalDateTime;
 
